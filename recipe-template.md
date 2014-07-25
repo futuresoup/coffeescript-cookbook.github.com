@@ -3,6 +3,8 @@ layout: default
 title: Recipe Template
 ---
 
+**testing** git commit, hope this doesn't go to origin master I'm a newb :p
+
 ## Sample recipe template
 
 Create a new `my-recipe.md` file and use this text as a start.
